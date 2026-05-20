@@ -1,1 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this research or architectural framework, please cite it as follows."
 
+title: "Cyber-Physics: Deterministic Operational Governance for Distributed Cyber Infrastructures"
+
+type: software
+
+authors:
+  - family-names: "Kazem"
+    given-names: "Munther"
+
+version: "1.0"
+
+date-released: 2026-05-19
+
+url: "https://www.prospacetech.com/"
+
+abstract: >
+  Cyber-Physics introduces a deterministic operational governance
+  architecture for distributed cyber infrastructures based on
+  PDE-constrained propagation control, CFL stability enforcement,
+  thermal pressure estimation, temporal resonance modeling,
+  and deterministic containment orchestration.
+
+keywords:
+  - cybersecurity
+  - deterministic systems
+  - runtime governance
+  - distributed systems
+  - CFL stability
+  - temporal resonance
+  - operational physics
+  - real-time containment
+  - cyber-physics
