@@ -111,39 +111,39 @@ The architecture supports:
 
 ## Propagation Velocity
 
-\[
+$$
 V = \frac{\Delta S}{\Delta t}
-\]
+$$
 
 ---
 
 ## CFL Stability Constraint
 
-\[
+$$
 CFL = \frac{u_c \cdot \Delta t}{\Delta x}
-\]
+$$
 
 Operational instability occurs when:
 
-\[
+$$
 CFL > CFL_{max}
-\]
+$$
 
 ---
 
 ## Temporal Resonance
 
-\[
+$$
 TR = \frac{R_{max} - R_{avg}}{R_{avg}}
-\]
+$$
 
 ---
 
 ## Operational Friction
 
-\[
+$$
 OF = \alpha \cdot TP + \beta \cdot TR
-\]
+$$
 
 ---
 
@@ -206,6 +206,8 @@ The primary novelty introduced by Cyber-Physics includes:
 /figures       -> architecture and mathematical diagrams
 ```
 
+---
+
 # Current Status
 
 Current release:
@@ -218,6 +220,8 @@ Status:
 - Experimental runtime validation completed
 - Benchmark architecture defined
 
+---
+
 # Future Work
 
 Planned future research directions include:
@@ -228,9 +232,11 @@ Planned future research directions include:
 - runtime governance SDK
 - large-scale distributed benchmark validation
 
+---
+
 # Citation
 
-```text
+
 @misc{kazem2026cyberphysics,
   author       = {Munther Kazem},
   title        = {Cyber-Physics: Deterministic Operational Governance for Distributed Cyber Infrastructures},
@@ -238,12 +244,15 @@ Planned future research directions include:
   publisher    = {Zenodo},
   note         = {Core Research Paper v1.0}
 }
-```
+
+---
 
 # Author
 
 Munther Kazem
 Independent Researcher and System Architect
+
+---
 
 # License
 
