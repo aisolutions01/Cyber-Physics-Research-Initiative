@@ -266,6 +266,7 @@ Planned future research directions include:
 # Author
 
 Munther Kazem
+
 Independent Researcher and System Architect
 
 ---
@@ -273,4 +274,5 @@ Independent Researcher and System Architect
 # License
 
 This repository is released for research and academic purposes.
+
 All rights reserved © Munther Kazem.
