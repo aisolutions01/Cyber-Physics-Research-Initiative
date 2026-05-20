@@ -158,7 +158,7 @@ $$
 ## Thermal Pressure
 
 $$
-TP=∫t0​t​P(τ)dτ
+TP = \int_{t_0}^{t} P(\tau)\, d\tau
 $$
 
 ---
