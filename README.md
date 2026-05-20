@@ -131,6 +131,14 @@ $$
 
 ---
 
+## Stability Margin
+
+$$
+SM=1−CFL
+$$
+
+---
+
 ## Temporal Resonance
 
 $$
@@ -142,7 +150,15 @@ $$
 ## Operational Friction
 
 $$
-OF = \alpha \cdot TP + \beta \cdot TR
+OF=F(TP,TR)
+$$
+
+---
+
+## Thermal Pressure
+
+$$
+TP=∫t0​t​P(τ)dτ
 $$
 
 ---
