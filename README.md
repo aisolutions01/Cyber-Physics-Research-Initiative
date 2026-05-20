@@ -81,9 +81,9 @@ Instead of focusing exclusively on noisy anomalies, the framework analyzes:
 
 Operational pressure is modeled as thermal accumulation:
 
-\[
+$$
 Q_c = \sum (CFL_i \cdot \Delta t_i)
-\]
+$$
 
 Where operational heat accumulation may trigger:
 
