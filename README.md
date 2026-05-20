@@ -13,7 +13,7 @@ The framework combines:
 - Deterministic containment orchestration
 - Distributed behavioral synchronization
 
-Rather than relying exclusively on probabilistic post-event detection, Cyber-Physics models cyber-operational behavior as a bounded propagation field governed through deterministic runtime constraints.
+Rather than relying primarily on probabilistic post-event correlation, Cyber-Physics models cyber-operational behavior as a bounded propagation field governed through deterministic runtime constraints.
 
 ---
 
@@ -77,7 +77,7 @@ Instead of focusing exclusively on noisy anomalies, the framework analyzes:
 
 ---
 
-## Digital Thermodynamics
+## Operational Thermodynamics
 
 Operational pressure is modeled as thermal accumulation:
 
@@ -209,6 +209,8 @@ The primary novelty introduced by Cyber-Physics includes:
 - temporal resonance-driven orchestration
 - operational friction injection
 - bounded distributed containment mechanics
+
+Cyber-Physics focuses on governing operational propagation itself rather than exclusively classifying post-event anomalies.
 
 ---
 
